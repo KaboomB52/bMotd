@@ -1,0 +1,27 @@
+# If there are multiple motds it will pick a random one whenever someone pings the server.
+motds:
+  - "&3&lRailHQ Network!%NEWLINE%&eEpic gamer server :)"
+  - "&3&lRailHQ Network!%NEWLINE%&eRemoved Herobrine"
+  - "&3&lRailHQ Network!%NEWLINE%&eBack from the dead"
+  - "&3&lRailHQ Network!%NEWLINE%&eCustom coded this time"
+  - "&3&lRailHQ Network!%NEWLINE%&eNon p2w what a joke"
+  - "&3&lRailHQ Network!%NEWLINE%&eMass produced p2w beats non p2w"
+
+# If set to true the playercount will be replaced by text set below.
+custom-playercountmessage: false
+
+# The text taking the place of the player account if the above is enabled.
+playercountmessage: "&eOld Gamer Network"
+
+# If set to false, only the given text will be shown without the playercount (requires custom-playercountmessage set to true).
+show-playercount: true
+
+# Is shown when you move your mouse above the text at the top right corner of the server in the serverlist,
+# where the playercount would normally be displayed.
+playercounthovermessage: "&3&lRailHQ Network!%NEWLINE%%NEWLINE%&eAn actual good server :)"
+
+# If you don't want to be up to date, you can!
+update-checks: true
+
+# Message that will show if you dont have permission to use the commands.
+no-permission-message: "&cYou do not have the permission to execute that command."

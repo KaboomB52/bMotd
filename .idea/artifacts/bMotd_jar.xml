@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bMotd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bMotd_jar</output-path>
+    <root id="archive" name="bMotd.jar">
+      <element id="module-output" name="bMotd" />
+    </root>
+  </artifact>
+</component>
